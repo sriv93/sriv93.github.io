@@ -1,0 +1,46 @@
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+    text-indent: 0;
+    border-spacing: 2px;
+}
+
+.px-3 {
+    padding-left: .75rem;
+    padding-right: .75rem;
+}
+
+.py-1 {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+
+.text-xs {
+    font-size: .75rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-purple {
+    color: rgba(124,58,237,var(--tw-text-opacity));
+}
+
+.bg-purple {
+    background-color: rgba(221,214,254,var(--tw-bg-opacity));
+}
