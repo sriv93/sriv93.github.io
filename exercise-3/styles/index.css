@@ -1,0 +1,39 @@
+.h-8 {
+    height: 2rem;
+}
+
+.items-center {
+    align-items: center;
+}
+
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex {
+    display: flex;
+}
+
+.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.text-sm {
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.pr-6 {
+    padding-right: 1.5rem;
+}
+
+.h-11 {
+    height: 2.75rem;
+}
+
